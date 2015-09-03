@@ -4,4 +4,4 @@
 
 Omitted shadows and gradients to limit colors/printing costs 
 
-Font = STRATO
+Font = <a href="https://github.com/uplaod/Strato">STRATO</a>
