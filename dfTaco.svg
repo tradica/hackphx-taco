@@ -23,18 +23,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="585.54718"
-     inkscape:cy="583.37206"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="135.1928"
+     inkscape:cy="130.73932"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="3440"
-     inkscape:window-height="1375"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1496"
+     inkscape:window-height="1026"
+     inkscape:window-x="1336"
+     inkscape:window-y="305"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,7 +53,7 @@
      id="layer1">
     <g
        id="g971"
-       transform="matrix(0.63215073,0,0,0.61007725,-28.491279,-54.005101)">
+       transform="matrix(0.63215073,0,0,0.61007725,-15.493641,-41.714013)">
       <path
          inkscape:connector-curvature="0"
          id="path3067"
@@ -84,5 +84,12 @@
        height="0.022498319"
        x="154.02705"
        y="152.64081" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.00020666"
+       id="rect142-3"
+       width="0.020931816"
+       height="0.022498319"
+       x="13.128155"
+       y="12.848562" />
   </g>
 </svg>
