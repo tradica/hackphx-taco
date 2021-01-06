@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="500.92562"
-     inkscape:cy="797.71999"
+     inkscape:zoom="0.5"
+     inkscape:cx="585.54718"
+     inkscape:cy="583.37206"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -53,7 +53,7 @@
      id="layer1">
     <g
        id="g971"
-       transform="matrix(0.63215073,0,0,0.61007725,24.425389,88.869906)">
+       transform="matrix(0.63215073,0,0,0.61007725,-28.491279,-54.005101)">
       <path
          inkscape:connector-curvature="0"
          id="path3067"
@@ -82,7 +82,7 @@
        id="rect142"
        width="0.020931816"
        height="0.022498319"
-       x="206.94377"
-       y="295.51584" />
+       x="154.02705"
+       y="152.64081" />
   </g>
 </svg>
